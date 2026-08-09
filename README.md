@@ -96,7 +96,7 @@ A atividade também contribuiu para desenvolver meu **pensamento crítico, pesqu
 
 O relatório acadêmico completo utilizado neste projeto está disponível neste repositório:
 
-📄 [Acessar relatório completo](./Relatorio%20Analise%20Etica%20Deepfakes%20Cleber%20Pavin.pdf)
+📄 📄 [Acessar relatório completo](./relatorio-analise-etica-deepfakes.pdf.pdf)
 
 ---
 
